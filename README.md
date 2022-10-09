@@ -1,16 +1,34 @@
-# project
+# Flutter challenge widget
 
-A new Flutter project.
+> Episode 1
 
-## Getting Started
+- [ ] [Source code](https://github.com/Zeeshan-progs/Flutter-widget-challenge/tree/main/lib/ui/Alignment_align)
 
-This project is a starting point for a Flutter application.
+- [ ] [watch on youtube](https://www.youtube.com/watch?v=xtVApAuarD8)
 
-A few resources to get you started if this is your first Flutter project:
+![maxresdefault](https://user-images.githubusercontent.com/67018643/194779819-ef52a3a4-f825-4802-9b73-5f266283f37d.jpg)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+##
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Built With
+
+- Material Widget
+
+
+## Future Updates
+
+- [ ] Animated Alignment
+
+## Author
+
+**Zeeshan Iqbal**
+
+- [Profile](https://github.com/zeeshan-progs)
+- [Email](mailto:md.zeeshaniqbal7277@gmail.com?subject=Hi "Hi!")
+
+
+## 🤝 Support
+
+Contributions, issues, and feature requests are welcome!
+
+Give a ⭐️ if you like this project!
