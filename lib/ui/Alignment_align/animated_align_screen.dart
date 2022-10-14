@@ -61,7 +61,7 @@ class _AnimatedAlignWidgetState extends State<AnimatedAlignWidget> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: LightAppBar(
-        title: 'Day 1',
+        title: 'Animated align',
       ),
       body: SafeArea(
           child: InkWell(
