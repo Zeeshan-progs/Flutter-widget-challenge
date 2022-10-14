@@ -17,8 +17,14 @@ class DailyTask {
 List<DailyTask> tasks = [
   DailyTask(
     description: 'Animated align',
-    title: 'Day 1',
+    title: 'Ep: 1',
     cretedAt: DateTime(2022, 10, 8),
-    route: Routes.day1,
+    route: Routes.ep1,
+  ),
+  DailyTask(
+    description: 'Dragabble',
+    title: 'Ep: 2',
+    cretedAt: DateTime(2022, 10, 16),
+    route: Routes.ep2,
   ),
 ];

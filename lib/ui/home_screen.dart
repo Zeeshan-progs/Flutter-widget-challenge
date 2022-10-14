@@ -25,7 +25,10 @@ class _HomeScreenState extends State<HomeScreen> {
             physics: const NeverScrollableScrollPhysics(),
             itemBuilder: ((context, index) {
               var data = tasks[index];
-              return ListCard(data: data);
+              return ListCard(
+                data: data,
+                index: index,
+              );
             }),
             separatorBuilder: (ctx, index) => DeviceUtils.blankHeight(16),
             itemCount: tasks.length,
